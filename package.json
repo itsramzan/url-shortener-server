@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "Building..",
+    "build": "echo 'Building..'",
     "start": "node app.js"
   },
   "keywords": [],
